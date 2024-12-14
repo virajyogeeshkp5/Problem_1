@@ -1,0 +1,12 @@
+print(~0)
+print(~1)
+print(~2)
+print(~123)
+print(60^30)
+print(bin(60^30))
+print(60|30)
+print(60<<30)
+print(60>>30)
+print(60<=30)
+print(60>=30)
+
